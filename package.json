@@ -1,0 +1,16 @@
+{
+  "name": "nodrani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricky",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "discordbot-script": "^2.0.5",
+    "express": "^4.17.1"
+  }
+}
